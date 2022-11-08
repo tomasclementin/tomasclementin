@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
   Soy Tomás Clementín, programador Full-Stack.<br>  Me considero una persona sociable y responsable, perseverante ante la adversidad y predispuesto para el trabajo en equipo.
 
 
